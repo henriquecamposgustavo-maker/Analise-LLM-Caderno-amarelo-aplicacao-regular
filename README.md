@@ -1,0 +1,1 @@
+# Analise-LLM-Caderno-amarelo-aplicacao-regular
